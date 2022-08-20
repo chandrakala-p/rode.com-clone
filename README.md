@@ -1,4 +1,4 @@
-# Project 15: Product Design LandingPage using HTML and Tailwind CSS
+# Rode.com clone using HTML and Tailwind CSS
 
 Chandrakala P
 
